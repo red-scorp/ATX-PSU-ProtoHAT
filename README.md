@@ -17,7 +17,7 @@ Preview:
 Features:
 
 - Raspberry Pi 40-pin connector
-- ATX PSU 20-pin connector
+- ATX PSU 24-pin connector
 - DIY raster DOT area for prototyping
 
 CAM files are available.
