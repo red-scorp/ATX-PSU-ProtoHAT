@@ -5596,7 +5596,7 @@
   (gr_text "PS_\nON" (at 142.24 92.71 270) (layer "B.SilkS") (tstamp 2ed288fd-a138-44dd-bba0-76772721cc6e)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "PWR_\nGGOD" (at 160.02 92.71 -90) (layer "B.SilkS") (tstamp 2f93c57b-a1be-403b-a673-8d00f87e6fe2)
+  (gr_text "PWR_\nGOOD" (at 160.02 92.71 270) (layer "B.SilkS") (tstamp 2f93c57b-a1be-403b-a673-8d00f87e6fe2)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
   (gr_text "${COMPANY}" (at 152.4 129.54) (layer "B.SilkS") (tstamp 5863e4e4-34dd-4942-bb6f-515200136f84)
