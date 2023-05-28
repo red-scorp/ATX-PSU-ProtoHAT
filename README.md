@@ -22,10 +22,24 @@ Features:
 
 CAM files are available.
 
+## Version History
+
+### v1.1
+
+- Fixed board geomery to fit better to Rasperry Pi HAT spec
+- Added few more DIY raster lines
+- Fixed typo in pad's description
+- Moved texts around
+
+### v1.0
+
+Initial release
+
 ## Links
 
 - [pinout.xyz](https://pinout.xyz/) - a brilliant resource on topic of Pi's pinout and HATs.
-- [raspberrypi/hats](https://github.com/raspberrypi/hats) - Pi's HAT specification.
+- [raspberrypi/hats](https://github.com/raspberrypi/hats) - Raspberry Pi HAT specification.
+- [Wikipedia:ATX](https://en.wikipedia.org/wiki/ATX) - lengthy decription of ATX standard, including PSU pinout.
 
 ## How to help
 
