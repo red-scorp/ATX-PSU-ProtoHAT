@@ -7,7 +7,7 @@
   (title_block
     (title "ATX-PSU-ProtoHAT-0011")
     (date "2023-05-28")
-    (rev "1.0")
+    (rev "1.1")
     (company "(c) 2023 Andriy Golovnya")
     (comment 1 "ATX PSU Protoboard")
   )
